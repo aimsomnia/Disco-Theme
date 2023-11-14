@@ -27,7 +27,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
   --Cards-Background-Color: rgb(63, 0, 64);/*darker cards color*/
   /*Backgrounds*/ 
-  --master-background: url('https://raw.githubusercontent.com/aimsomnia/Teste/main/background/feet3.jpg'); /*master background*/
+  --master-background: url('https://raw.githubusercontent.com/aimsomnia/Teste/main/background/feet2.jpg'); /*master background*/
   /*Gifs for popouts and stuff*/
   --loop-gif: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif.gif?raw=true'); /*Used in files background*/
   --loop-gif2: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif2.gif?raw=true'); /*Used in guild popouts > User popout*/
@@ -40,6 +40,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --border3: 2px solid rgb(90,0,150); /*border 3*/
   
   /*Others variables*/
+@import url("https://goldenlys.github.io/WizardUI/addons/PurpleServerList.css");
   /*Radial status*/
   --rs-small-spacing: 0px;
   --rs-medium-spacing: 0.1px;
